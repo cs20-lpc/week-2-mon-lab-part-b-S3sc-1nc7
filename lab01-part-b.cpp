@@ -1,7 +1,4 @@
-#include <iostream>
-#include <string>
 #include "Student.hpp"
-using namespace std;
 
 /*******************************************************************************
  * Function prototypes
